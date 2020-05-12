@@ -1,3 +1,3 @@
 FROM nginx
 
-ADD config.csv /config.csv
+RUN echo "Hello, Jenkins."
